@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "var")
+import("IBDsim")
+import("expm")
+import("Familias")
+import("paramlink")
